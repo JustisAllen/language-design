@@ -133,7 +133,7 @@ you know a poorly designed language? What are the symptoms?
 * has a system or pattern for growth so that it can evolve with the needs of its users.
 * stays true to a specific user, purpose, or philosophy so that development is directed and the language doesn't become obscure because it's trying to be too many things at once.
 * requires just enough syntax to express an idea so that the syntax prescribed is concise and meaningful.
-* "should be easy to use and hard to misuse:" [Bloch, 2006].
+* "should be easy to use and hard to misuse:" names and functions in the interface of the language are self-documenting, and there are little to no user-accessible functions that have destructive behavior [Bloch, 2006].
 * allows users to expand the language in a way that feels like the underlying language (e.g., supports operator overloading).
 
 ##### Programs in a well-designed language:
